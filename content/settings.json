@@ -1,23 +1,23 @@
 {
-  "store_id": 1171,
-  "name": "novagerty",
   "domain": "novagerty.netlify.app",
-  "short_name": "novagerty",
-  "description": "novagerty ",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#2d4077",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/gerty-farma.png",
+  "name": "novagerty",
+  "short_name": "novagerty",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/gertyfarma.png",
+  "country_code": "BR",
+  "secondary_color": "#008378",
+  "icon": "/img/uploads/gertyfarma.png",
+  "store_id": 1171,
+  "description": "novagerty ",
+  "large_icon": "/img/uploads/gertyfarma.png"
 }
