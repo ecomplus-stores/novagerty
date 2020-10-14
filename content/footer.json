@@ -27,7 +27,8 @@
     },
     {
       "src": "/img/uploads/seloablec",
-      "link": "https://www.ablec.com.br"
+      "link": "https://www.ablec.com.br",
+      "alt": "Associado ABLEC"
     }
   ],
   "payment_methods": {
