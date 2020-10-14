@@ -64,6 +64,10 @@
           "mobile_img": "/img/uploads/destaquetamarine-gallery-img-2020-08-17-20-33-29.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true
     }
   ]
 }
