@@ -91,6 +91,9 @@
       "banners": [
         {
           "img": "/img/uploads/abbott.png"
+        },
+        {
+          "img": "/img/uploads/astrazeneca.png"
         }
       ]
     }
