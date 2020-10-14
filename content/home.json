@@ -106,12 +106,6 @@
         },
         {
           "img": "/img/uploads/gsk.png"
-        },
-        {
-          "img": "/img/uploads/nestle.png"
-        },
-        {
-          "img": "/img/uploads/sanofi.png"
         }
       ]
     },
@@ -132,6 +126,9 @@
         },
         {
           "img": "/img/uploads/roche.png"
+        },
+        {
+          "img": "/img/uploads/sanofi.png"
         }
       ]
     }
