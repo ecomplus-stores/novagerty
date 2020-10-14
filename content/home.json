@@ -68,6 +68,17 @@
     {
       "type": "collection-shelf",
       "shuffle": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "img": "/img/uploads/09-10_nutraway_mix-gallery-img-2020-10-09-17-08-51.jpg",
+          "start": "2020-10-14T19:35:20.895Z",
+          "end": "2020-10-14T19:35:21.000Z"
+        }
+      ]
     }
   ]
 }
