@@ -108,12 +108,6 @@
           "img": "/img/uploads/gsk.png"
         },
         {
-          "img": "/img/uploads/hyperacinza.png"
-        },
-        {
-          "img": "/img/uploads/johnsons.png"
-        },
-        {
           "img": "/img/uploads/myralis.png"
         },
         {
@@ -132,6 +126,9 @@
       "banners": [
         {
           "img": "/img/uploads/hyperacinza.png"
+        },
+        {
+          "img": "/img/uploads/johnsons.png"
         }
       ]
     }
