@@ -85,6 +85,14 @@
           "mobile_img": "/img/uploads/15-09_johnsons_mix-gallery-img-2020-09-15-20-00-49.jpg"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/abbott.png"
+        }
+      ]
     }
   ]
 }
