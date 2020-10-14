@@ -1,7 +1,7 @@
 {
   "domain": "novagerty.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#008378",
+  "primary_color": "#2d4077",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/gertyfarma.png",
   "country_code": "BR",
-  "secondary_color": "#2d4077",
+  "secondary_color": "#008378",
   "icon": "/img/uploads/gertyfarma.png",
   "store_id": 1171,
   "description": "A sua farmácia digital e um dos maiores e-commerces do setor de Beleza e Saúde no Brasil. Estamos disponíveis 24 horas por dia, 7 dias por semana, para trazer a você as melhores ofertas de medicamentos, dermocosméticos, suplementos alimentares, produtos de saúde, fitness, higiene, perfumaria e beleza na Internet, de A a Z.",
