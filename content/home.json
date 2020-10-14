@@ -126,6 +126,14 @@
           "img": "/img/uploads/sanofi.png"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/hyperacinza.png"
+        }
+      ]
     }
   ]
 }
