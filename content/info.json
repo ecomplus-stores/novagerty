@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "ENTREGA GARANTIDA PARA TODO BRASIL"
+    "text": "ENTREGA GARANTIDA<br>PARA TODO BRASIL"
   },
   "installments": {
     "show": true,
-    "text": "3X SEM JUROS CARTÃO DE CRÉDITO"
+    "text": "3X SEM JUROS<br>CARTÃO DE CRÉDITO"
   },
   "exchange": {
     "show": true,
-    "text": "32 ANOS DE TRADIÇÃO COMPRA SEGURA"
+    "text": "32 ANOS DE TRADIÇÃO<br>COMPRA SEGURA"
   },
   "promo": {
     "show": true,
-    "text": "APROVEITE PRODUTOS COM FRETE REDUZIDO"
+    "text": "APROVEITE<br>PRODUTOS COM FRETE REDUZIDO"
   }
 }
