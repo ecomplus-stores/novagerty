@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "ENTREGA GARANTIDA PARA TODO BRASIL"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "3X SEM JUROS CARTÃO DE CRÉDITO"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "32 ANOS DE TRADIÇÃO COMPRA SEGURA"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "APROVEITE PRODUTOS COM FRETE REDUZIDO"
   }
 }
