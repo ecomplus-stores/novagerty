@@ -17,20 +17,12 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
-      "type": "custom-html",
-      "html": "<!--STANDOUT-CONTENT--><div id=\"standoutDivAutomatico\"></div><!--END STANDOUT-CONTENT-->"
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<script type=\"text/javascript\" src=\"https://s3-sa-east-1.amazonaws.com/assets.standout.com.br/js/script-standout-gertyfarma.js\"></script>"
-    }
+    }    
   ]
 }
