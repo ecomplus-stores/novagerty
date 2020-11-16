@@ -21,6 +21,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<!--STANDOUT-CONTENT--><div id=\"standoutDivAutomatico\"></div><!--END STANDOUT-CONTENT-->"
+    },
+    {
       "type": "product-specifications",
       "enabled": true
     },
