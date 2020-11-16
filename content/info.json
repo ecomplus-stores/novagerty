@@ -1,7 +1,7 @@
 {
   "shipping": {
-    "show": true,
     "text": "ENTREGA GARANTIDA<br>PARA TODO BRASIL"
+    "show": true,
   },
   "installments": {
     "show": true,
