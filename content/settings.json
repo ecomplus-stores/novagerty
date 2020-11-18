@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#008378",
   "theme": {
-    "bootswatch": "minty",
+    "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
