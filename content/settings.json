@@ -1,9 +1,9 @@
 {
   "domain": "novagerty.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#2d4077",
+  "primary_color": "#008378",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "_"
   },
   "bg_color": "#ffffff",
