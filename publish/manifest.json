@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b838d1398b7f8790f4430e59184ee490.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5b22b2839c8ac3b58b91afdee6dce05c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.94ad973fc79f0dc437f58d55eb3cf6fa.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f0e6366f16ac9ad787f7979bfc90beba.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0e7e3b5171cf5b5328622014f6635587.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Gerty Farma",
+  "short_name": "Gerty Farma",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A sua farmácia digital e um dos maiores e-commerces do setor de Beleza e Saúde no Brasil. Estamos disponíveis 24 horas por dia, 7 dias por semana, para trazer a você as melhores ofertas de medicamentos, dermocosméticos, suplementos alimentares, produtos de saúde, fitness, higiene, perfumaria e beleza na Internet, de A a Z.",
+  "background_color": "#ffffff",
+  "theme_color": "#3bbfac"
+}
