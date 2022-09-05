@@ -1,24 +1,24 @@
 {
   "domain": "novagerty.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#3bbfac",
+  "primary_color": "#268cb9",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/gertyfarma.png",
-  "name": "Gerty Farma",
-  "short_name": "Gerty Farma",
   "repository": "novagerty",
+  "logo": "/img/uploads/scs-logo.png",
+  "name": "SCS Medicamentos",
+  "short_name": "SCS Medicamentos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/g.png",
+  "favicon": "/img/uploads/scs2.png",
   "country_code": "BR",
-  "secondary_color": "#0e7875",
-  "icon": "/img/uploads/g.png",
+  "secondary_color": "#375564",
+  "icon": "/img/uploads/scs2.png",
   "store_id": 1171,
   "description": "A sua farmácia digital e um dos maiores e-commerces do setor de Beleza e Saúde no Brasil. Estamos disponíveis 24 horas por dia, 7 dias por semana, para trazer a você as melhores ofertas de medicamentos, dermocosméticos, suplementos alimentares, produtos de saúde, fitness, higiene, perfumaria e beleza na Internet, de A a Z.",
-  "large_icon": "/img/uploads/g.png"
+  "large_icon": "/img/uploads/scs2.png"
 }
