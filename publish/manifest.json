@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8049bb8d741d2ce3d722771ef00570ca.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e1c83c9729a1edd48918f44d9df224c5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f0d73b8742414a24c87b6f9f71c4ebe7.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.17fb553366b14407bcfd089404549aaa.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3f3e47745a263b7911dbbc8004105f2b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "SCS Medicamentos",
+  "short_name": "SCS Medicamentos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A sua farmácia digital e um dos maiores e-commerces do setor de Beleza e Saúde no Brasil. Estamos disponíveis 24 horas por dia, 7 dias por semana, para trazer a você as melhores ofertas de medicamentos, dermocosméticos, suplementos alimentares, produtos de saúde, fitness, higiene, perfumaria e beleza na Internet, de A a Z.",
+  "background_color": "#ffffff",
+  "theme_color": "#268cb9"
+}
